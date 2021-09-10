@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 
-<img src=![Simulator Screen Recording - iPhone 11 - 2021-09-10 at 15 25 41](https://user-images.githubusercontent.com/78435515/132906833-d6f593bd-69fb-4c7c-9893-414c18ad577e.gif) width=250><br>
+![Simulator Screen Recording - iPhone 11 - 2021-09-10 at 15 25 41](https://user-images.githubusercontent.com/78435515/132906833-d6f593bd-69fb-4c7c-9893-414c18ad577e.gif) 
 
 ### Notes
 I was using i phone 8 plus to build it, and i tried running on different simulators, worked on i phone 8 plus and 11, havent tried others, but with i phone 8,  the alignment was off, even i used center horizontally and center vertically. I had problem uploading my gif on this readme file.
